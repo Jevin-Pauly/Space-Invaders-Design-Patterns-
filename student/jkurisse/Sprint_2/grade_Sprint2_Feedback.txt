@@ -1,0 +1,44 @@
+----------------------------------
+
+Sprint2 – Search for Sprites
+
+Requirements:
+
+Features
+    [ ] Single Linked Lists added to managers
+    [ ] Singleton manager
+    [ ] No news in load content
+    [ ] New Sprites
+
+Explain a section of code
+    [ ] Talk through.. showing code
+    [ ] in addition explain Find function (internals)
+
+General:
+
+PDF filled out correctly
+    [ ] Is there a changelist number all fields filled in
+YouTube Video 
+    [ ] Demo code and design with loud clear voice 
+Build verifed
+    [ ] Code builds and runs "as-is"
+
+----------------------------------
+
+Grading
+
+0 - points
+1 - Needs improvement
+2 - Slight issues
+3 - Meet full requirements
+
+----------------------------------
+
+       Final Score: 0.0
+
+----------------------------------
+
+Additional Feedback below:
+
+----------------------------------
+

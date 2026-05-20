@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PA.Imperial">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAACAAAQAAABAAAAAAAAAAACACAAAAAAAAAAAA=</HashCode>
+      <FileName>Src_ReadOnly\Imperial.cs</FileName>
+      <NewMemberFileName>Singleton\__DO_NOT_MODIFY__\GlobalMan_Base.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.Imperial_Adapter">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAACAAAQAAABAAAAAAAAAAACACAAABAAAAAAAA=</HashCode>
+      <FileName>Src\Imperial_Adapter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="poMetric" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PA.MetricMachine">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAACAAAQAAABAAAAAAAAAAACACAAAAAAIQAQAA=</HashCode>
+      <FileName>Src_ReadOnly\MetricMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

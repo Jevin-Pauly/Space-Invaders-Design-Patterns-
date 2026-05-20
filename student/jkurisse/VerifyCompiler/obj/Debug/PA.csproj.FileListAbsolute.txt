@@ -1,0 +1,7 @@
+C:\Users\jevin\Desktop\SE_456\keenan2024winter_se456\student\jkurisse\VerifyCompiler\bin\Debug\PA.exe.config
+C:\Users\jevin\Desktop\SE_456\keenan2024winter_se456\student\jkurisse\VerifyCompiler\bin\Debug\PA.exe
+C:\Users\jevin\Desktop\SE_456\keenan2024winter_se456\student\jkurisse\VerifyCompiler\bin\Debug\PA.pdb
+C:\Users\jevin\Desktop\SE_456\keenan2024winter_se456\student\jkurisse\VerifyCompiler\obj\Debug\PA.csproj.AssemblyReference.cache
+C:\Users\jevin\Desktop\SE_456\keenan2024winter_se456\student\jkurisse\VerifyCompiler\obj\Debug\PA.csproj.CoreCompileInputs.cache
+C:\Users\jevin\Desktop\SE_456\keenan2024winter_se456\student\jkurisse\VerifyCompiler\obj\Debug\PA.exe
+C:\Users\jevin\Desktop\SE_456\keenan2024winter_se456\student\jkurisse\VerifyCompiler\obj\Debug\PA.pdb

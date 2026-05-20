@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PA.State">
+    <Position X="4.75" Y="1.75" Width="1.25" />
+    <Members>
+      <Method Name="State" Hidden="true" />
+    </Members>
+    <NestedTypes>
+      <Enum Name="PA.State.Name" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>State\__DO_NOT_MODIFY__\State.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAEAAAAAAAGIACAICAAAAAAAAA=</HashCode>
+      <FileName>State\__DO_NOT_MODIFY__\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.Context">
+    <Position X="2.25" Y="1.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAAAIAAAAEAAAAAMADIAACIAAAAAAAAAA=</HashCode>
+      <FileName>State\__Modify__\Context.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="pState" />
+      <Field Name="poHead" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PA.SLink" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Visitor_Standard\__DO_NOT_MODIFY__\SLink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.WalkingState">
+    <Position X="4.75" Y="5.75" Width="1.25" />
+    <Members>
+      <Method Name="WalkingState" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAACIAAAIAAAAAAAAAA=</HashCode>
+      <FileName>State\__Modify__\WalkingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.SittingState">
+    <Position X="3.25" Y="5.75" Width="1.25" />
+    <Members>
+      <Method Name="SittingState" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAACIAAAIAAAAAAAAAA=</HashCode>
+      <FileName>State\__Modify__\SittingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.StandingState">
+    <Position X="6.25" Y="5.75" Width="1.25" />
+    <Members>
+      <Method Name="StandingState" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAACIAAAIAAAAAAAAAA=</HashCode>
+      <FileName>State\__Modify__\StandingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

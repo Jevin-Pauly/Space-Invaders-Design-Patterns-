@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PA.PriorityQueue">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="privInsert" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAIAAAAAAAAAAABAAAAAAAAAACAAAAAIAAAAA=</HashCode>
+      <FileName>Priority Queue\__Refactor__\PriorityQueue.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="poHead" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PA.Node">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAEAAIAAAAAAAAAAEA=</HashCode>
+      <FileName>Priority Queue\__Refactor__\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.DLink">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Priority Queue\__DO_NOT_MODIFY__\DLink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,39 @@
+----------------------------------
+
+Sprint1 – Manager Reserve
+
+Requirements:
+
+4 Tests passing
+    [ ] See project run with 4 unit tests passing
+Explain a section of code
+    [ ] Talk through.. showing files and uml
+
+General:
+
+PDF filled out correctly
+    [ ] Is there a changelist number all fields filled in
+YouTube Video 
+    [ ] Demo code and design with loud clear voice 
+Build verifed
+    [ ] Code builds and runs "as-is"
+
+----------------------------------
+
+Grading
+
+0 - points
+1 - Needs improvement
+2 - Slight issues
+3 - Meet full requirements
+
+----------------------------------
+
+       Final Score: 0.0
+
+----------------------------------
+
+Additional Feedback below:
+
+----------------------------------
+

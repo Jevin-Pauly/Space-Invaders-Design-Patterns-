@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PA.Car">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PA.Car.Name" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Garage\__DO_NOT_MODIFY__\Car.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Src_ReadOnly\Garage\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.DLink">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Src_ReadOnly\Garage\DLink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.Garage">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Src_ReadOnly\Garage\Garage.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="poHead" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PA.Car_BaseIterator" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAAAQAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Src_ReadOnly\Garage\Car_BaseIterator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.Car_ForwardIterator" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAACAAAQAAAACAAAAAAAAACAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Src\Garage\Car_ForwardIterator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.Car_ReverseIterator" Collapsed="true">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAACAAAQAAAACAAAAAAAAACAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Src\Garage\Car_ReverseIterator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

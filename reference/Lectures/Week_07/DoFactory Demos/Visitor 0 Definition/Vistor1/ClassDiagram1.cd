@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vistor1.Visitor" Collapsed="true">
+    <Position X="5.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VistorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistor1.ConcreteVisitor1" Collapsed="true">
+    <Position X="4" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VistorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistor1.ConcreteVisitor2" Collapsed="true">
+    <Position X="6.25" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VistorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistor1.Element" Collapsed="true">
+    <Position X="5.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VistorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistor1.ConcreteElementA" Collapsed="true">
+    <Position X="4" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VistorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistor1.ConcreteElementB" Collapsed="true">
+    <Position X="6.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VistorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistor1.ObjectStructure">
+    <Position X="1.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VistorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

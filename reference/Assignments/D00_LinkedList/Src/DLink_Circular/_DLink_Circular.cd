@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PA.DLink_Circular_Manager">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAABAAAAAAAAAACAAAAAAAAAAk=</HashCode>
+      <FileName>Src\DLink_Circular\DLink_Circular_Manager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="poHead" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PA.DLink">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAABBAAA=</HashCode>
+      <FileName>Src_ReadOnly\DLink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.Car">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PA.Car.Name" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Src\DLink_Circular\Car.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAgAAAAAAEAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Src\DLink_Circular\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

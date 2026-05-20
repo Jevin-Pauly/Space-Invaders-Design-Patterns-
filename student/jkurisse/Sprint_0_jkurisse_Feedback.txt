@@ -1,0 +1,44 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+studentId: jkurisse
+     name: Jevin Pauly Kurissery
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+studentId: jkurisse
+     name: Jevin Pauly Kurissery
+----------------------------------
+
+Sprint0 – Graphics Test
+
+Requirements:
+
+Verify GameEngine is working
+    [x ] See a screen with sprites moving
+PDF filled out correctly
+    [ x] Is there a changelist number all fields filled in
+YouTube Video 
+    [ x] Demo code and design with loud clear voice 
+Build verifed
+    [x ] Code builds and runs "as-is"
+
+----------------------------------
+
+Grading
+
+0 - points
+1 - Needs improvement
+2 - Slight issues
+3 - Meet full requirements
+
+----------------------------------
+
+       Final Score: 3.0
+
+----------------------------------
+
+Additional Feedback below:
+
+----------------------------------
+

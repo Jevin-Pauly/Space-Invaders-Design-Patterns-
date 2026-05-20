@@ -1,0 +1,44 @@
+----------------------------------
+
+Sprint3 – Sprite Batch
+
+Requirements:
+
+Features
+    [ ] Rename
+    [ ] SpriteBoxMan
+    [ ] Priority
+    [ ] Heterogeneous sprites
+    [ ] Sprite Batch
+
+Explain a section of code
+    [ ] Talk through.. showing code
+
+General:
+
+PDF filled out correctly
+    [ ] Is there a changelist number all fields filled in
+YouTube Video 
+    [ ] Demo code and design with loud clear voice 
+Build verifed
+    [ ] Code builds and runs "as-is"
+
+----------------------------------
+
+Grading
+
+0 - points
+1 - Needs improvement
+2 - Slight issues
+3 - Meet full requirements
+
+----------------------------------
+
+       Final Score: 0.0
+
+----------------------------------
+
+Additional Feedback below:
+
+----------------------------------
+

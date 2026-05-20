@@ -1,0 +1,34 @@
+----------------------------------
+
+Sprint0 – Graphics Test
+
+Requirements:
+
+Verify GameEngine is working
+    [ ] See a screen with sprites moving
+PDF filled out correctly
+    [ ] Is there a changelist number all fields filled in
+YouTube Video 
+    [ ] Demo code and design with loud clear voice 
+Build verifed
+    [ ] Code builds and runs "as-is"
+
+----------------------------------
+
+Grading
+
+0 - points
+1 - Needs improvement
+2 - Slight issues
+3 - Meet full requirements
+
+----------------------------------
+
+       Final Score: 0.0
+
+----------------------------------
+
+Additional Feedback below:
+
+----------------------------------
+

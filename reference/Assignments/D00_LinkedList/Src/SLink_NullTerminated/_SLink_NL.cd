@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PA.SLink_NT_Manager">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAABAAAAAAAAAACAAAAAAAAAAk=</HashCode>
+      <FileName>Src\SLink_NT\SLink_NT_Manager.cs</FileName>
+      <NewMemberFileName>Src\DLink_NT\DLink_NT_Manager.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="poHead" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PA.Flower">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PA.Flower.Name" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Src\SLink_NT\Flower.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAgAAAAAAEAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Src\SLink_NT\Flower.cs</FileName>
+      <NewMemberFileName>Src\DLink_NT\Animal.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PA.SLink">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAA=</HashCode>
+      <FileName>Src_ReadOnly\SLink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

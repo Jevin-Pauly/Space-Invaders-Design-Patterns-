@@ -1,0 +1,72 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+studentId: jkurisse
+     name: Jevin Pauly Kurissery
+
+---------------------------------- 
+   PDF submission file              
+---------------------------------- 
+
+      name(pdf): Jevin Pauly
+      date(pdf): 1/14/2024
+changelist(pdf): 202007
+ Integrity(pdf): yes
+    Verify(pdf): yes
+
+---------------------------------  
+    SCORE                           
+---------------------------------  
+                                   
+ 
+[x86 Debug] BUILD: success  
+[x86 Debug]   RUN: success 
+ 
+[x86 Debug]  Passed: 4
+[x86 Debug]  Failed: 0
+   
+   --- For grading --- 
+
+         Unit Pass: 4
+       Unit Failed: 0
+
+               Raw: 4
+        Deductions: 0.0
+       Final Score: 4.0
+
+  
+------------------------  
+  Building  
+------------------------  
+  
+Build started...
+1>------ Build started: Project: PA, Configuration: Debug Any CPU ------
+1>  PA -> C:\code\keenan2024winter_se456\student\jkurisse\D00_LinkedList\bin\Debug\PA.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 5:53 PM and took 00.189 seconds ==========
+
+1>  PA -> C:\code\keenan2024winter_se456\student\jkurisse\D00_LinkedList\bin\Debug\PA.exe
+
+
+***********************************
+**      Framework: 1.00          **
+**   C++ Compiler: v4.0.30319    **
+**           Mode: Debug         **
+***********************************
+
+ PASSED: DLink_Circular_Shakeout()
+ PASSED: DLink_EndPtr_Shakeout()
+ PASSED: SLink_NT_Shakeout()
+ PASSED: DLink_NT_Shakeout()
+
+  --- Tests Results ---    
+
+[x86 Debug] Ignored: 0
+[x86 Debug]  Passed: 4
+[x86 Debug]  Failed: 0
+
+   Test Count: 4
+ Indiv Checks: 213
+         Mode: x86 Debug
+
+-----------------
